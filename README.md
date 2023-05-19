@@ -4,7 +4,7 @@
 [![](https://visitcount.itsvg.in/api?id=akashpadampalle&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-- 🌱 I’m currently learning **Coding Ninja's Fresher codecamp**
+- 🌱 I’m currently pursuing **Coding Ninja's Fresher codecamp course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akashpadampalle?tab=repositories](https://github.com/akashpadampalle?tab=repositories)
 
