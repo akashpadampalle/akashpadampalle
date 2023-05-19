@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Padampalle</h1>
 <h3 align="center">Building Web Dreams with MERN Stack Sorcery</h3>
 
+<img src="https://raw.githubusercontent.com/akashpadampalle/icons/main/working_boy.gif" alt="working boy" align="right" height="300" />
+
 [![](https://visitcount.itsvg.in/api?id=akashpadampalle&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
