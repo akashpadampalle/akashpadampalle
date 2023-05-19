@@ -14,7 +14,8 @@
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://github.com/akashpadampalle/icons/raw/main/linkedin_button_icon.svg)](https://linkedin.com/in/akash-padampalle) [![gmail](https://github.com/akashpadampalle/icons/raw/main/gmail_button_icon.svg)](mailto:akashpadampalle780@gmail.com) [![Instagram](https://github.com/akashpadampalle/icons/raw/main/instagram_button_icon.svg)](https://instagram.com/akash_padampalle) [![Leetcode](https://github.com/akashpadampalle/icons/raw/main/leetcode_button_icon.svg)](https://leetcode.com/Padampalle/)
+ [![LinkedIn](https://github.com/akashpadampalle/icons/raw/main/linkedin_button_icon.svg)](https://linkedin.com/in/akash-padampalle) [![Instagram](https://github.com/akashpadampalle/icons/raw/main/instagram_button_icon.svg)](https://instagram.com/akash_padampalle) [![Leetcode](https://github.com/akashpadampalle/icons/raw/main/leetcode_button_icon.svg)](https://leetcode.com/Padampalle/)
+ 
 
 
 # 💻 Tech Stack:
