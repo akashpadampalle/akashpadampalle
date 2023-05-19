@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Padampalle</h1>
 <h3 align="center">Building Web Dreams with MERN Stack Sorcery</h3>
 
-<img src="https://raw.githubusercontent.com/akashpadampalle/icons/main/working_boy.gif" alt="working boy" align="right" width="40%" />
-<div width="55%">
+<img src="https://raw.githubusercontent.com/akashpadampalle/icons/main/working_boy.gif" alt="working boy" align="right" style="min-width: 300px; width: 40%; " />
  
 [![](https://visitcount.itsvg.in/api?id=akashpadampalle&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -14,7 +13,7 @@
 - 📫 How to reach me **akashpadampalle780@gmail.com**
 
 - ⚡ Fun fact **My favorite debugging tool is a good cup of hot chocolate. It's like a magical potion for fixing bugs! ☕️✨**
-<div />
+
 
 ## 🌐 Socials:
  [![LinkedIn](https://github.com/akashpadampalle/icons/raw/main/linkedin_button_icon.svg)](https://linkedin.com/in/akash-padampalle) [![Instagram](https://github.com/akashpadampalle/icons/raw/main/instagram_button_icon.svg)](https://instagram.com/akash_padampalle) [![Leetcode](https://github.com/akashpadampalle/icons/raw/main/leetcode_button_icon.svg)](https://leetcode.com/Padampalle/)
