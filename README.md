@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Padampalle</h1>
 <h3 align="center">Building Web Dreams with MERN Stack Sorcery</h3>
 
-<img src="https://raw.githubusercontent.com/akashpadampalle/icons/main/working_boy.gif" alt="working boy" align="right" width="40%" />
+<img src="https://i.imgur.com/CVOjV8Z.gif" alt="working boy" align="right" width="40%" />
  
 [![](https://visitcount.itsvg.in/api?id=akashpadampalle&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -16,7 +16,7 @@
 
 
 ## 🌐 Socials:
- [![LinkedIn](https://github.com/akashpadampalle/icons/raw/main/linkedin_button_icon.svg)](https://linkedin.com/in/akash-padampalle) [![Instagram](https://github.com/akashpadampalle/icons/raw/main/instagram_button_icon.svg)](https://instagram.com/akash_padampalle) [![Leetcode](https://github.com/akashpadampalle/icons/raw/main/leetcode_button_icon.svg)](https://leetcode.com/Padampalle/)
+ [![LinkedIn](https://i.imgur.com/dO3tEMO.png)](https://linkedin.com/in/akash-padampalle) [![Instagram](https://i.imgur.com/NPnGQsW.png)](https://instagram.com/akash_padampalle) [![Leetcode](https://i.imgur.com/CnKhkdn.png)](https://leetcode.com/Padampalle/)
  
 
 
@@ -30,4 +30,4 @@
 
 ---
 
-<img src="https://github.com/akashpadampalle/icons/blob/main/love_coding.jpg" alt="i love coding" align="center" width="100%"/>
+<img src="https://i.imgur.com/flkuoUj.jpg" alt="i love coding" align="center" width="100%"/>
